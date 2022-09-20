@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexProher
 - 👀 I’m interested in create or join with something great
 - 🌱 I’m currently learning python and JS
-- 💞️ I’m looking to collaborate on some people who can help me to increase my abilities
+- 💞️ I’m looking to collaborate on some people who can help me to improve my abilities
 - 📫 How to reach me: alexproher@gmail.com or telegram @Alex_Prokhor
 
 <!---
